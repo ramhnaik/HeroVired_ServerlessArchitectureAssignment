@@ -24,7 +24,7 @@
   - Runtime: Python 3.x
   - Role: Use the IAM role created in the previous step.
 #### Write the Boto3 Script:
-In the Lambda function code editor, copy and paste Assignment1_Boto3_Script.py script
+In the Lambda function code editor, copy and paste [Assignment1_Boto3_Script.py](Assignment1_Boto3_Script.py script
 
 ### 4. Manual Invocation
 #### Invoke the Lambda Function:
