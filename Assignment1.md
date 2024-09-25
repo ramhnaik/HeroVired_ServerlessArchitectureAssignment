@@ -6,8 +6,8 @@
 ##### Create EC2 Instances:
 * Navigate to the EC2 dashboard in the AWS Management Console.
 * Launch two new t2.micro instances.
-* Tag the first instance with a key Action and value Auto-Stop.
-* Tag the second instance with a key Action and value Auto-Start.
+* Tag the first instance with a key Action and value Ramananda-Auto-Stop.
+* Tag the second instance with a key Action and value Ramananda-Auto-Stop.
 
 ### 2. Lambda IAM Role
 #### Create IAM Role:
@@ -32,4 +32,4 @@ In the Lambda function code editor, copy and paste [Assignment1_Boto3_Script.py]
 * Manually trigger the function from the Lambda dashboard.
 #### Verify EC2 Instances:
 * Go to the EC2 dashboard.
-* Confirm that the instance tagged Auto-Stop has stopped and the one tagged Auto-Start has started.
+* Confirm that the instance tagged Ramananda-Auto-Stop has stopped and the one tagged Ramananda-Auto-Stop has started.
