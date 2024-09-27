@@ -13,7 +13,7 @@
 ### 3. Lambda Function
 * Create a New Function: Navigate to the Lambda dashboard and create a new function. Choose Python 3.x as the runtime.
 * Assign IAM Role: Assign the IAM role created in the previous step.
-  In the Lambda function code editor, copy and paste [Assignment2_Boto3_Script.py](Assignment1_Boto2_Script.py)
+  In the Lambda function code editor, copy and paste [Assignment2_Boto3_Script.py](Assignment2_Boto3_Script.py)
 
 ### 4. Manual Invocation
 * Save and Test: Save your function and manually trigger it.
